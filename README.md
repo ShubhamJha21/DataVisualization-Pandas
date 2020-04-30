@@ -1,2 +1,2 @@
-# DataVisualization-Pnadas-
+# DataVisualization-Pandas
 Complete DataVisualization Using Pandas With Explanation.
